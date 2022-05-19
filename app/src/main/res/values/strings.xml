@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActicityFive</string>
+    <string name="Birth">year of birth</string>
+    <string name="agetxt">Age</string>
+    <string name="Calculate">Button</string>
+    <string name="Calculate1">Calculate</string>
+</resources>
